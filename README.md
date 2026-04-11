@@ -1,12 +1,12 @@
-# XÂY DỰNG HỆ THỐNG QUẢN LÝ PHÒNG GYM TÍCH HỢP AI PHÂN TÍCH HÀNH VI TẬP LUYỆN
+XÂY DỰNG HỆ THỐNG QUẢN LÝ PHÒNG GYM TÍCH HỢP AI PHÂN TÍCH HÀNH VI TẬP LUYỆN
 
-## Thông tin đề tài
+Thông tin đề tài
 Tên đề tài: Xây dựng hệ thống quản lý phòng gym tích hợp AI phân tích hành vi tập luyện của hội viên
 Sinh viên thực hiện: Nguyễn Tuấn Cường
 Giảng viên hướng dẫn: Th.S Trần Bàn Thạch
 Thời gian thực hiện: 12/03/2026 – 15/05/2026
 
-## Công nghệ sử dụng
+Công nghệ sử dụng
 Backend: FastAPI (Python)
 Frontend: ReactJS + TypeScript
 Database: PostgreSQL
